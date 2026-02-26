@@ -27,3 +27,8 @@ python -m pip install -r requirements-prework.txt
 2. Complete the work
 3. Push the branch and open a PR from your branch to `main`
 4. Submit the PR URL in TalentLMS
+
+## When to use each
+
+- **Jupyter Notebook:** Ideal for interactive data exploration, experimenting with code step by step, and creating reports that combine text, visuals, and results. It allows quick understanding of outcomes and easy sharing with others.  
+- **Python Script (.py):** Best for code that will run regularly, such as automated tasks or within a production environment. It enables clean code organization, testing support, and reusability as a module in other projects.
